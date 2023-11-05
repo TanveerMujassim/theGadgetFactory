@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"thinkpad",
+        "category":"laptop",
+        "price": 25,
+        "description":" a basic laptop",
+        "image":"https://rukminim2.flixcart.com/image/832/832/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
+    },
+    {
+        "id":2,
+        "name":"pavilion",
+        "category":"laptop",
+        "price": 30,
+        "description":" a coding laptop",
+        "image":"https://rukminim2.flixcart.com/image/832/832/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
+    },
+    {
+        "id":3,
+        "name":"hp pavilion",
+        "category":"laptop",
+        "price":50,
+        "description":"Graphics laptop",
+        "image":"https://th.bing.com/th/id/OIP.aFywxx2DuURHemZu4OMUtAHaHa?w=196&h=196&c=7&r=0&o=5&pid=1.7"
+    }
+]
