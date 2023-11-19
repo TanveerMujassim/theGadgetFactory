@@ -1,26 +1,134 @@
 [
     {
         "id":1,
-        "name":"thinkpad",
+        "name":"HP Laptop 35.6 cm 14s-fq1089AU",
         "category":"laptop",
-        "price": 25,
-        "description":" a basic laptop",
-        "image":"https://rukminim2.flixcart.com/image/832/832/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
+        "price": 37499,
+        "description":"AMD Ryzen™ 3 5300U processor,Windows 11 Home,35.6 cm (14) diagonal, FHD display with AMD Radeon™ Graphics,8 GB DDR4-3200 RAM,512 GB SSD Hard drive Backlit Keyboard, True Vision 720p HD camera",
+        "image":"https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08078670_1_1.png"
     },
     {
         "id":2,
-        "name":"pavilion",
+        "name":"HP Laptop 35.6 cm 14s-fq1092AU",
         "category":"laptop",
-        "price": 30,
-        "description":" a coding laptop",
-        "image":"https://rukminim2.flixcart.com/image/832/832/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
+        "price": 46499,
+        "description":"AMD Ryzen™ 5 5500U processor,Windows 11 Home,35.6 cm (14) diagonal, FHD display with AMD Radeon™ Graphics,8 GB DDR4-3200 RAM,512 GB SSD Hard drive,Backlit Keyboard, True Vision 720p HD camera",
+        "image":"https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08078641_1.png"
     },
     {
         "id":3,
-        "name":"hp pavilion",
+        "name":"HP Laptop 39.6 cm 15-fd0018TU - Blue",
         "category":"laptop",
-        "price":50,
-        "description":"Graphics laptop",
-        "image":"https://th.bing.com/th/id/OIP.aFywxx2DuURHemZu4OMUtAHaHa?w=196&h=196&c=7&r=0&o=5&pid=1.7"
+        "price":49999,
+        "description":"13th Generation Intel® Core™ i3 processor,Windows 11 Home Single Language,39.6 cm (15.6) diagonal FHD display with Intel® Iris UHD Graphics,8 GB DDR4-3200 RAM,512 GB SSD Hard drive,True Vision 1080p FHD camera, Privacy Camera",
+        "image":"https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08511070.png"
+    },
+    {
+        "id":4,
+        "name":"HP OMEN Gaming Laptop 40.9 cm16-xf0060AX",
+        "category":"laptop",
+        "price":132749,
+        "description":"AMD Ryzen™ 7 processor,Windows 11 Home,40.9 cm (16.1) diagonal FHD display 165 Hz, 7 ms response time,NVIDIA® GeForce RTX™ 4060 Laptop GPU (8 GB GDDR6 dedicated),16 GB DDR5-5600 MHz RAM,1 TB PCIe® Gen4 NVMe™ TLC M.2 SSD Hard drive,Backlit keyboard with numeric keypad, True Vision 1080p FHD camera, B&O Speakers",
+        "image":"https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08507800_1_1_1.png"
+    },
+    {
+        "id":5,
+        "name":"HP OMEN Transcend Gaming Laptop 40.6 cm 16-u0003TX",
+        "category":"laptop",
+        "price":165990,
+        "description":"13th Generation Intel® Core™ i7 processor,Windows 11 Home,40.6 cm (16) diagonal, WQXGA 240 Hz refresh rate, 7 ms response time display,NVIDIA® GeForce RTX™ 4050,512 GB PCIe® NVMe™ SSD Hard drive,16 GB RAM DDR5,Backlit RGB 4-zone Keyboard/True Vision 1080p FHD IR camera/B&O Speakers/Weighs: 2.09 kg",
+        "image":"https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08499625_1_5.png"
+    },
+    {
+        "id":6,
+        "name":"HP OMEN Gaming Laptop 40.9 cm16-xf0060AX",
+        "category":"laptop",
+        "price":132749,
+        "description":"AMD Ryzen™ 7 processor Windows 11 Home 40.9 cm (16.1) diagonal FHD display 165 Hz, 7 ms response time NVIDIA® GeForce RTX™ 4060 Laptop GPU (8 GB GDDR6 dedicated) 16 GB DDR5-5600 MHz RAM 1 TB PCIe® Gen4 NVMe™ TLC M.2 SSD Hard drive Backlit keyboard with numeric keypad, True Vision 1080p FHD camera, B&O Speakers",
+        "image":"https://in-media.apjonlinecdn.com/catalog/product/cache/314dec89b3219941707ad62ccc90e585/c/0/c08507800_1_1_1.png"
+    },
+    {
+        "id":7,
+        "name":"IdeaPad Slim 5i 11th Gen (15, Intel)",
+        "category":"laptop",
+        "price":62990,
+        "description":"11th Generation Intel® Core™ i7-1165G7 Processor (2.80 GHz up to 4.70 GHz),Windows 11 Home Single Language 64 (English),39.62cms (15.6) FHD (1920 x 1080), IPS, Anti-Glare, Non-Touch, 300 Nits,16 GB Soldered DDR4 3200MHz,512 GB SSD M.2 2280 PCIe Gen3/4,Graphics NVIDIA GeForce® MX450 2GB GDDR6",
+        "image":"https://www.lenovo.com/medias/lenovo-laptops-ideapad-5i-15-series.png?context=bWFzdGVyfHJvb3R8NzczNTR8aW1hZ2UvcG5nfGgzMi9oY2QvMTQxOTE2MTUxMTUyOTQucG5nfDYzZjVhMTBmM2Q1OTlhZGI2NzIyYTQ0NTc5OTE5ZmJjNWRjNzVlNDIyYzM3M2UzZmUyMWIwZGE5MzBkOTA3ZjY"
+    },
+    {
+        "id":8,
+        "name":"IdeaPad Slim 3i Chromebook (11, Intel)",
+        "category":"laptop",
+        "price":17990,
+        "description":"Intel® Celeron® N4020 Processor (1.10 GHz up to 2.80 GHz),Chrome OS,29.46cms (11.6) HD (1366 x 768), TN, Anti-Glare, Non-Touch, 250 Nits,4 GB Soldered LPDDR4 2400MHz,64 GB eMMC 5.1,Integrated Intel® UHD Graphics 600",
+        "image":"https://www.lenovo.com/medias/IP-ChromeBook-Slim-3i-11-SS-Hero.png?context=bWFzdGVyfHJvb3R8NTY5OTh8aW1hZ2UvcG5nfGgwYy9oNWEvMTI3NTU1ODQ2Nzk5NjYucG5nfDY4NzJkMzhiYWFiZTY3ZTYwYWQxMGY2MjI4MzJjZTczOTAzYmVkZjIwMWJmOTQxZTgwZjU1ZDMzY2Q0ZTAyYmU"
+    },
+    {
+        "id":9,
+        "name":"IdeaPad Flex 5i 12th Gen (14, Intel)",
+        "category":"laptop",
+        "price":54390,
+        "description":"AMD Ryzen™ 5 7530U Processor (2.00 GHz up to 4.50 GHz),Windows 11 Home Single Language 64,16 GB Soldered LPDDR4x 4266MHz,512 GB SSD M.2 2242 PCIe Gen4 QLC,40.64cms (16) WUXGA (1920 x 1200), IPS, Glare, Touch, 45%NTSC, 300 nits, 60Hz, Narrow Bezel,Integrated Graphics",
+        "image":"https://www.lenovo.com/medias/lenovo-laptops-ideapad-flex-5i-gen-7-14-Intel-hero.png?context=bWFzdGVyfHJvb3R8NjMwOTUyfGltYWdlL3BuZ3xoZTAvaGE5LzE0NDA4MDExNjQ0OTU4LnBuZ3w2YzgxYTYxMWI4MGMwNWU3NjU3NGIxNTMwNjg0OWJiYzRhZWQ4N2U3NjY2Yjc5OGMxYjZiYjIwYjZhYmZlMjU5"
+    },
+    {
+        "id":10,
+        "name":"Integrated Graphics",
+        "category":"laptop",
+        "price":74489.97,
+        "description":"12th Gen Intel® Core™ i5-12500H (18 MB cache, 12 cores, 16 threads, up to 4.50 GHz Turbo),Windows 11 Home Single Language, English,Graphics NVIDIA® GeForce RTX™ 3050, 4 GB GDDR6,Memory 16 GB: 2 x 8 GB, DDR5, 4800 MT/s,Storage 512 GB, M.2, PCIe, SSD,Display 15.6, FHD 1920x1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit",
+        "image":"https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g15-5520/media-gallery/g15-5520-bk-coralkb/notebook-g-15-5520-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=457&qlt=100,1&resMode=sharp2&size=457,402&chrss=full"
+    },
+    {
+        "id":11,
+        "name":"Inspiron 14 2-in-1 Laptop",
+        "category":"laptop",
+        "price":84989.99,
+        "description":"13th Generation Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz),Windows 11 Home Single Language, English,Intel® Iris® Xe Graphics,Memory 16 GB: LPDDR5, 4800 MT/s (onboard),Storage 512 GB, M.2, PCIe NVMe, SSD,Display 14, FHD+ 1920x1200, 60Hz, WVA, Touch, 250 nit, ComfortView",
+        "image":"https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-7430-2in1-intel/media-gallery/notebook-inspiron-14-7430-silver-fpr-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=632&qlt=100,1&resMode=sharp2&size=632,402&chrss=full"
+    },
+    {
+        "id":12,
+        "name":"XPS 13 Laptop",
+        "category":"laptop",
+        "price":144990.01,
+        "description":"12th Generation Intel® Core™ i7-1250U (12MB Cache, up to 4.7 GHz, 10 cores),Windows 11 Home Single Language, English,Intel® Iris® Xe Graphics,32 GB: LPDDR5, 5200 MT/s (onboard), dual-channel,1 TB, PCIe x2 NVMe, SSD integrated,13.4, FHD+ 1920x1200, 60Hz, Non-Touch, Anti-Glare, 500 nit, InfinityEdge",
+        "image":"https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/media-gallery/notebook-xps-9315-nt-blue-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=575&qlt=100,1&resMode=sharp2&size=575,402&chrss=full"
+    },
+    {
+        "id":13,
+        "name":"SAMSUNG Galaxy S23 Ultra 5G (Green, 256 GB)  (12 GB RAM)",
+        "category":"Phone",
+        "price":99999,
+        "description":"12 GB RAM | 256 GB ROM,17.27 cm (6.8 inch) Quad HD+ Display,200MP + 10MP + 12MP + 10MP | 12MP Front Camera,5000 mAh Lithium Ion Battery,Qualcomm Snapdragon 8 Gen 2 Processor",
+        "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70"
+    },
+    {
+        "id":14,
+        "name":"SAMSUNG Galaxy A14 5G (Black, 128 GB)  (6 GB RAM)",
+        "category":"Phone",
+        "price":16999,
+        "description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76 cm (6.6 inch) HD+ Display,50MP + 2MP | 13MP Front Camera,5000 mAh Lithium Ion Battery,SEC S5E8535 (Exynos 1330) Processor",
+        "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/w/b/-original-imagmefcaj26vdhg.jpeg?q=70"
+    },
+    {
+        "id":15,
+        "name":"Samsung Galaxy S21 FE 5G with Snapdragon 888 (Navy, 128 GB)  (8 GB RAM)",
+        "category":"Phone",
+        "price":32999,
+        "description":"8 GB RAM | 128 GB ROM,16.26 cm (6.4 inch) Full HD+ Display,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,4500 mAh Lithium-ion Battery,Snapdragon 888 Processor",
+        "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/x/0/-original-imagtnqjjfgxzpz4.jpeg?q=70"
+    },
+    {
+        "id":16,
+        "name":"SAMSUNG Galaxy A34 5G (Awesome Violet, 256 GB)  (8 GB RAM)",
+        "category":"Phone",
+        "price":29999,
+        "description":"8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.76 cm (6.6 inch) Full HD+ Display,48MP + 8MP + 5MP | 13MP Front Camera,5000 mAh Li-ion Battery Battery,Dimensity 1080, Octa Core Processor",
+        "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/j/y/galaxy-a34-5g-sm-a346elvcins-samsung-original-imagnpz5dhysxrgw.jpeg?q=70"
+    },
+    {
+        "id":17,
+        "name":""
     }
 ]
